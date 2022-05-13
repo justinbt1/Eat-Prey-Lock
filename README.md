@@ -1,1 +1,1 @@
-# Eat-Prey-Lock
+# Eat Prey Lock
