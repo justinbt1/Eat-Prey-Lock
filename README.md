@@ -9,10 +9,10 @@ Build a smart AI enabled cat flap that can detect if the cat has a mouse and loc
 It should also send an alert notification so any prey that's still alive can be rescued!
 
 This will involve the following phases:
-1. Building a motion sensor camera and streaming cat videos to carbon neutral cloud storage.
-2. Training a neural network to recognise when the cat has prey.
+1. Building a motion sensor camera and streaming cat videos to carbon neutral 🌍 cloud storage ☁️.
+2. Training a neural network 🧠 to recognise when the cat 🐈 has prey 🐁.
 3. Deploying the model "at the edge".
-4. Building alert notification function.
+4. Building alert 🚨 notification function.
 5. Integrating with cat flap.
 
 Hardware:
