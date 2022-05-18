@@ -20,3 +20,5 @@ Hardware:
 - Naturebytes IP55 Weatherproof Wildlife Camera Case
 - Raspberry Pi Noir Camera Module V2
 - PIR motion sensor module
+- 32GB micro SD card
+- USB WIFI adapter
