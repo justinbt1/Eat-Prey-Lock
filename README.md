@@ -4,7 +4,7 @@ The 🐈 keeps bringing in prey to the house through the cat flap, sometimes up 
 This is in spite of being well fed, played with, having a bell and being kept in at night.  
 He just likes killing things!!!
 
-### Solution
+### Solution 🙀
 Build a smart AI enabled cat flap that can detect if the cat has a mouse and lock for 5 minutes if so.  
 It should also send an alert notification so any prey that's still alive can be rescued!
 
